@@ -7,10 +7,16 @@
 
 ## Environment
 - Python 3.11, conda env `biot6900`
-- Key packages: biopython, requests, pandas
+- Key packages: biopython, requests, pandas,jupyter
 
 ## What didn't work / notes for the grader
-- (Fill this in after you run the notebook top to bottom — e.g. "Everything ran cleanly" or "Stuck on X, here's what I tried.")
+- Parts A–C ran clean top to bottom, no errors.
+- Part D (sample dataset download/load) is next week's material — confirmed with Prof. Prabakaran that it's not expected for this submission.
+## Databases Queried
+- PubMed — literature search via NCBI E-utilities
+- UniProt — protein sequence/annotation lookup
+- PDB — structure retrieval
+- GWAS Catalog — variant/trait association lookup
 
 ## How to reproduce
 ```
